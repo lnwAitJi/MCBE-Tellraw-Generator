@@ -6,6 +6,11 @@ i using PHP to generate**tellraw** in Minecraft Bedrock
 
 For using in your world/server/realm
 
+## Scratch Minecraft Bedrock: Tellraw Generator!!
+This is also Made by me too!
+
+This is GUI Mode but still be terminal theme btw, [Click Here!](https://scratch.mit.edu/projects/842638085/fullscreen/)
+
 ## Install it
 
 first of all install this:
