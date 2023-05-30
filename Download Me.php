@@ -44,7 +44,7 @@ while (true) {
         case 2:
             $count++;
             echo ("--- > Entity Name < ---\n");
-            echo ('Enter the traget to display name' . "\n" . 'ex: "@a", "@a[tag=player]"' . "\n\n");
+            echo ('Enter the entity to display name' . "\n" . 'ex: "@a", "@a[tag=player]"' . "\n\n");
             $name = readline("Enter Here: ");
             $base .= (($count > 1) ? "," : "" ).'{"selector":"' . $name . '"}';
             break;
