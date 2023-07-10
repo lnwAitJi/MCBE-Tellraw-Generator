@@ -11,33 +11,41 @@ This is also Made by me too!
 
 This is GUI Mode but still be terminal theme btw, [Click Here!](https://scratch.mit.edu/projects/842638085/fullscreen/)
 
-## Install it
-
+## Install it (PHP)
 first of all install this:
 
-- Install [PHP](https://www.php.net/)
+1) Install [PHP](https://www.php.net/)
+2) Install [Visual Studio](https://code.visualstudio.com/)
 
-- Install [Visual Studio](https://code.visualstudio.com/)
-
-## Run it
-
+## Run it (PHP)
 And then open Visual Studio..
 
-- Make a folder (Recommend on Desktop)
+1) Make a folder (Recommend on Desktop)
+2) Copy Folder path🐾
+3) Click "Folder" in Visual Studio.
+4) Click "Open Folder"
+5) Selection Your Folder and Done
+6) try double click on PHP.php
+7) Click Terminal and new Terminal (Visual Studio)
+8) Hold click at "PowerShell" drag it to same place in PHP.php (on top taskbar)
+9) Type "php PHP.php" and enjoy
 
-- Copy Folder path🐾
 
-- Click "Folder" in Visual Studio.
+## Install it (Python)
+first of all install this:
 
-- Click "Open Folder"
+1) Install [Python](https://www.python.org/downloads)
+2) Install [Visual Studio](https://code.visualstudio.com/)
 
-- Selection Your Folder and Done
+## Run it (Python)
+And then open Visual Studio..
 
-- try double click on Main.php
-
-- Click Terminal and new Terminal (Visual Studio)
-
-- Hold click at "PowerShell" drag it to same place in Main.php (on top taskbar)
-
-- Type "php Main.php" and enjoy
-
+1) Make a folder (Recommend on Desktop)
+2) Copy Folder path🐾
+3) Click "Folder" in Visual Studio.
+4) Click "Open Folder"
+5) Selection Your Folder and Done
+6) try double click on Python.py
+7) Click Terminal and new Terminal (Visual Studio)
+8) Hold click at "PowerShell" drag it to same place in Python.py (on top taskbar)
+9) Type "python Python.py" and enjoy
